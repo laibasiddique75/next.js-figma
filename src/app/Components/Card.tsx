@@ -13,18 +13,18 @@ const Card = () => {
   <h2>Capture ideas and find them quickly</h2>
 
   <div className='flex'>
-<img src='Images/la_check-circle-solid.png' alt=''></img>
+<img src='../Images/la_check-circle-solid.png' alt=''></img>
 <p>Sync unlimited devices</p>
 </div>
 <div className='flex'>
-  <img src='Images/la_check-circle-solid.png' alt=''></img><p>10 GB monthly uploads</p></div>
+  <img src='../Images/la_check-circle-solid.png' alt=''></img><p>10 GB monthly uploads</p></div>
 
-  <div className='flex'><img src='Images/la_check-circle-solid.png' alt=''></img><p>200 MB max note size</p></div>
- <div className='flex'><img src='Images/la_check-circle-solid.png' alt=''></img> <p>Customize Home dashboard and access extra</p></div>
-  <div className='flex'> <img src='Images/la_check-circle-solid.png' alt=''></img><p>Connect primary Google Calendar<br></br> account</p></div>
-  <div className='flex'><img src='Images/la_check-circle-solid.png' alt=''></img><p>Add due dates, reminders, and <br></br>notifications to your tasks</p></div>
+  <div className='flex'><img src='../Images/la_check-circle-solid.png' alt=''></img><p>200 MB max note size</p></div>
+ <div className='flex'><img src='../Images/la_check-circle-solid.png' alt=''></img> <p>Customize Home dashboard and access extra</p></div>
+  <div className='flex'> <img src='../Images/la_check-circle-solid.png' alt=''></img><p>Connect primary Google Calendar<br></br> account</p></div>
+  <div className='flex'><img src='../Images/la_check-circle-solid.png' alt=''></img><p>Add due dates, reminders, and <br></br>notifications to your tasks</p></div>
   
-  <img src='Images/Frame Green Button (2).png' alt=''></img>
+  <img src='../Images/Frame Green Button (2).png' alt=''></img>
 </div>
 
 
@@ -47,16 +47,16 @@ const Card = () => {
   <h2>Keep home and family on track</h2>
 
   <div className='flex'>
-<img src='Images/la_check-circle-solid.png' alt=''></img>
+<img src='../Images/la_check-circle-solid.png' alt=''></img>
 <p>Sync unlimited devices</p>
 </div>
 <div className='flex'>
-  <img src='Images/la_check-circle-solid.png' alt=''></img><p>10 GB monthly uploads</p></div>
+  <img src='../Images/la_check-circle-solid.png' alt=''></img><p>10 GB monthly uploads</p></div>
 
-  <div className='flex'><img src='Images/la_check-circle-solid.png' alt=''></img><p>200 MB max note size</p></div>
- <div className='flex'><img src='Images/la_check-circle-solid.png' alt=''></img> <p>Customize Home dashboard and access extra</p></div>
-  <div className='flex'> <img src='Images/la_check-circle-solid.png' alt=''></img><p>Connect primary Google Calendar<br></br> account</p></div>
-  <div className='flex'><img src='Images/la_check-circle-solid.png' alt=''></img><p>Add due dates, reminders, and <br></br>notifications to your tasks</p></div>
+  <div className='flex'><img src='../Images/la_check-circle-solid.png' alt=''></img><p>200 MB max note size</p></div>
+ <div className='flex'><img src='../Images/la_check-circle-solid.png' alt=''></img> <p>Customize Home dashboard and access extra</p></div>
+  <div className='flex'> <img src='../Images/la_check-circle-solid.png' alt=''></img><p>Connect primary Google Calendar<br></br> account</p></div>
+  <div className='flex'><img src='../Images/la_check-circle-solid.png' alt=''></img><p>Add due dates, reminders, and <br></br>notifications to your tasks</p></div>
   
   <img src='Images/Frame Green Button (3).png' alt=''></img>
 </div>
@@ -80,16 +80,16 @@ const Card = () => {
   <h2>Capture ideas and find them quickly</h2>
 
   <div className='flex'>
-<img src='Images/la_check-circle-solid.png' alt=''></img>
+<img src='../Images/la_check-circle-solid.png' alt=''></img>
 <p>Sync unlimited devices</p>
 </div>
 <div className='flex'>
-  <img src='Images/la_check-circle-solid.png' alt=''></img><p>10 GB monthly uploads</p></div>
+  <img src='../Images/la_check-circle-solid.png' alt=''></img><p>10 GB monthly uploads</p></div>
 
-  <div className='flex'><img src='Images/la_check-circle-solid.png' alt=''></img><p>200 MB max note size</p></div>
- <div className='flex'><img src='Images/la_check-circle-solid.png' alt=''></img> <p>Customize Home dashboard and access extra</p></div>
-  <div className='flex'> <img src='Images/la_check-circle-solid.png' alt=''></img><p>Connect primary Google Calendar<br></br> account</p></div>
-  <div className='flex'><img src='Images/la_check-circle-solid.png' alt=''></img><p>Add due dates, reminders, and <br></br>notifications to your tasks</p></div>
+  <div className='flex'><img src='../Images/la_check-circle-solid.png' alt=''></img><p>200 MB max note size</p></div>
+ <div className='flex'><img src='../Images/la_check-circle-solid.png' alt=''></img> <p>Customize Home dashboard and access extra</p></div>
+  <div className='flex'> <img src='../Images/la_check-circle-solid.png' alt=''></img><p>Connect primary Google Calendar<br></br> account</p></div>
+  <div className='flex'><img src='../Images/la_check-circle-solid.png' alt=''></img><p>Add due dates, reminders, and <br></br>notifications to your tasks</p></div>
   
   <img src='Images/Frame Green Button (2).png' alt=''></img>
 </div>

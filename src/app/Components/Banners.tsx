@@ -15,7 +15,7 @@ OneDrive. The app is available on Windows, macOS, Linux, Android and iOS. A term
 
 
 <div className='flex justify-center'> 
-<img src='Images/Frame Red Button (4).png' alt=''></img>
+<img src='../Images/Frame Red Button (4).png' alt=''></img>
 </div>
 
 
@@ -38,13 +38,13 @@ OneDrive. The app is available on Windows, macOS, Linux, Android and iOS. A term
 Your Data</h1>
  <p >The app is open source and your notes are saved to an open format, so you'll <br></br>always have access to them. Uses End-To-End Encryption (E2EE) to secure your <br></br>notes and ensure no-one but yourself can access them.</p>
 
- <img src='Images/Frame Red Button (5).png' alt=''></img>
+ <img src='../Images/Frame Red Button (5).png' alt=''></img>
 
 </div>
 
 <div >
 
-<img src='Images/Image.png' alt=''></img>
+<img src='../Images/Image.png' alt=''></img>
 </div>
 </section>
 
@@ -64,7 +64,7 @@ Your Data</h1>
     </h1>
 
 
-    <img src='Images/Logos.png' alt=''className='p-20' ></img>
+    <img src='../Images/Logos.png' alt=''className='p-20' ></img>
    
 </div>
 
@@ -79,7 +79,7 @@ Your Data</h1>
 
 <div >
 
-<img src='Images/Image.png' alt=''></img>
+<img src='../Images/Image.png' alt=''></img>
 </div>
 
 
@@ -93,7 +93,7 @@ whitepace</h1>
 Read more</p>
 
 
-<img src='Images/Frame Red Button (5).png' alt=''></img>
+<img src='../Images/Frame Red Button (5).png' alt=''></img>
 
 </div>
 

@@ -7,7 +7,7 @@ const Footer = () => {
       <section className='flex justify-around items-center'>
 
   <div>
-<img src='Images/logos_figma.png' alt=''></img>
+<img src='../Images/logos_figma.png' alt=''></img>
 
 <p>Whitepace was created for<br></br>
 the new ways we live and<br></br>
@@ -44,7 +44,7 @@ workspace around the world.</p>
     <h1>Try It Today</h1>
     <p>Get started for free. Add your<br></br>
     whole team as your needs grow</p>
-    <img src='Images/Frame Red Button (7).png' alt=''></img>
+    <img src='../Images/Frame Red Button (7).png' alt=''></img>
   </div>
 
 
@@ -56,11 +56,11 @@ workspace around the world.</p>
 
 <div className='flex '>
 
-<img src='Images/Vector.png' alt=''></img>
+<img src='../Images/Vector.png' alt=''></img>
 
 <p>English</p>
 
-<img src='Images/Vector (1).png' alt=''></img>
+<img src='../Images/Vector (1).png' alt=''></img>
 
 </div>
 <div>Terms & Privacy</div>
@@ -78,7 +78,7 @@ workspace around the world.</p>
 <div >
 <div>
 
-<img src='Images/Frame 6.png'  alt=''></img>
+<img src='../Images/Frame 6.png'  alt=''></img>
 </div>
 
 </div>

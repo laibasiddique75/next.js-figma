@@ -13,13 +13,13 @@ const Banner = () => {
       <p className='text-white' >Project management software that enables your teams to collaborate, plan,<br></br>
       analyze and manage everyday tasks</p>
      
-      <img src='../Images/Frame Red Button.png' alt=''></img>
+      <img src='/Images/Frame Red Button.png' alt=''></img>
      
      </div>
 
      <div >
 
-<img src='../Images/Image.png' alt=''></img>
+<img src='/Images/Image.png' alt=''></img>
      </div>
     </section>
 
@@ -34,13 +34,13 @@ const Banner = () => {
 Images, videos, PDFs and audio files are supported. Create math expressions and<br></br> diagrams directly from the app. Take photos with the mobile app and save them<br></br>
 to a note.</p>
      
-      <img src='../Images/Frame Red Button (2).png' alt=''></img>
+      <img src='/Images/Frame Red Button (2).png' alt=''></img>
      
      </div>
 
      <div >
 
-<img src='../Images/Image.png' alt=''></img>
+<img src='/Images/Image.png' alt=''></img>
      </div>
     </section>
 
@@ -53,7 +53,7 @@ to a note.</p>
 
      <div >
 
-<img src='../Images/Image.png' alt=''></img>
+<img src='/Images/Image.png' alt=''></img>
      </div>
 
 
@@ -64,7 +64,7 @@ to a note.</p>
 Together</h1>
  <p >With whitepace, share your notes with your colleagues and collaborate on them. <br></br>You can also publish a note to the internet and share the URL with others.</p>
 
- <img src='../Images/Frame Green Button.png' alt=''></img>
+ <img src='/Images/Frame Green Button.png' alt=''></img>
 
 </div>
 
@@ -83,13 +83,13 @@ Together</h1>
 Extension</h1>
  <p className='text-white' >Use the web clipper extension, available on Chrome and Firefox, to save web <br></br>pages or take screenshots as notes.</p>
 
- <img src='../Images/Frame Red Button (3).png' alt=''></img>
+ <img src='/Images/Frame Red Button (3).png' alt=''></img>
 
 </div>
 
 <div >
 
-<img src='../Images/Image.png' alt=''></img>
+<img src='/Images/Image.png' alt=''></img>
 </div>
 </section>
 
@@ -100,7 +100,7 @@ Extension</h1>
 
 <div >
 
-<img src='../Images/Image.png' alt=''></img>
+<img src='/Images/Image.png' alt=''></img>
 </div>
 
 
@@ -112,7 +112,7 @@ your needs</h1>
 <p >Customise the app with plugins, custom themes and multiple text editors (Rich<br></br> Text or Markdown). Or create your own scripts and plugins using the Extension<br></br>
 API.</p>
 
-<img src='../Images/Frame Green Button (1).png' alt=''></img>
+<img src='/Images/Frame Green Button (1).png' alt=''></img>
 
 </div>
 

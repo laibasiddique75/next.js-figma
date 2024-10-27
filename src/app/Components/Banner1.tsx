@@ -17,10 +17,10 @@ const Banner1 = () => {
        
   <div className='m-8 '  >  <p  >Get started for free.</p>
   <p >  Add your whole team as your needs grow.</p></div>
-  <div className='p-9'>  <img src='../Images/Frame Red Button (6).png' alt=''></img></div>
+  <div className='p-9'>  <img src='/Images/Frame Red Button (6).png' alt=''></img></div>
     <p className=' text-center '>On a big team? Contact sales</p>
 <s></s>
-  <div className='scroll-pl-10'>  <img src='../Images/Group 6.png' alt=''></img></div>
+  <div className='scroll-pl-10'>  <img src='/Images/Group 6.png' alt=''></img></div>
 </div>
 </div>
 
